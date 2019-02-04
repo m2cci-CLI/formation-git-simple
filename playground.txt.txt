@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 formation git le vendredi je suis content il faut etre bien 
-=======
 formation git le vendredi je suis content donc bien 
->>>>>>> branch1
